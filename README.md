@@ -45,6 +45,8 @@ Incorporating supplier review mechanisms.
 Index optimization for faster query execution.
 
 Diagram Links
+
+
 [EER Diagram](https://drive.google.com/file/d/14V0hYe_WkELJt8NoJ3BoR70lky1WEs6m/view?usp=sharing)
 
 [UML Class Diagram](https://drive.google.com/file/d/1Ywtvez0WN6AF_KvXJBlyTlepOMPY1DO-/view?usp=sharing)

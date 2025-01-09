@@ -47,7 +47,11 @@ Index optimization for faster query execution.
 Repository Structure:
 
 /diagrams: EER and UML diagrams for the database schema.
+
 /sql_scripts: SQL queries for creating and populating MySQL tables.
+
 /data_generation: Python scripts using Faker for sample data.
+
 /visualizations: Python scripts for data analysis and visualizations.
+
 /nosql: MongoDB collection setup and queries.

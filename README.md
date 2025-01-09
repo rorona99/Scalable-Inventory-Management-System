@@ -53,10 +53,10 @@ Diagram Links
 
 Repository Structure:
 
-/sql_scripts: SQL queries for creating and populating MySQL tables.
+/SIMS-sql_scripts: SQL queries for creating and populating MySQL tables.
 
-/data_generation: Python scripts using Faker for sample data.
+/SIMS-data_generation: Python scripts using Faker for sample data.
 
-/visualizations: Python scripts for data analysis and visualizations.
+/SIMS-visualizations: Python scripts for data analysis and visualizations.
 
-/nosql: MongoDB collection setup and queries.
+/SIMS-nosql: MongoDB collection setup and queries.

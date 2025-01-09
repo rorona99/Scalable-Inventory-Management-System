@@ -44,9 +44,12 @@ Automating stock alerts based on thresholds.
 Incorporating supplier review mechanisms.
 Index optimization for faster query execution.
 
-Repository Structure:
+Diagram Links
+[EER Diagram](https://drive.google.com/file/d/14V0hYe_WkELJt8NoJ3BoR70lky1WEs6m/view?usp=sharing)
 
-/diagrams: EER and UML diagrams for the database schema.
+[UML Class Diagram](https://drive.google.com/file/d/1Ywtvez0WN6AF_KvXJBlyTlepOMPY1DO-/view?usp=sharing)
+
+Repository Structure:
 
 /sql_scripts: SQL queries for creating and populating MySQL tables.
 
